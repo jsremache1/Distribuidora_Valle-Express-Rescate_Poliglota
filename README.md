@@ -1,9 +1,13 @@
 # Distribuidora Valle Express - Rescate Políglota
 
-**Taller:** Operación Rescate - Persistencia Poliglota··
-**Materia:** Sistemas Avanzados de Bases de Datos - BD Distribuidas NoSQL y Réplica··
-**Docente:** Paul Diaz··
-**Institución:** Universidad de las Fuerzas Armadas ESPE··
+**Taller:** Operación Rescate - Persistencia Poliglota
+
+**Materia:** Sistemas Avanzados de Bases de Datos - BD Distribuidas NoSQL y Réplica
+
+**Docente:** Paul Diaz
+
+**Institución:** Universidad de las Fuerzas Armadas ESPE
+
 **Fecha del taller:** 21 de octubre de 2026
 
 ### Integrantes
