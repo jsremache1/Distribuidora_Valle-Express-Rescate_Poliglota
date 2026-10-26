@@ -149,5 +149,4 @@ Se detuvieron los contenedores de forma controlada para observar qué cae, qué 
 - PostgreSQL Global Development Group. (2024). *PostgreSQL 16 documentation: High availability, load balancing, and replication*. https://www.postgresql.org/docs/16/high-availability.html
 - Pritchett, D. (2008). BASE: An ACID alternative. *ACM Queue, 6*(3), 48–55. https://doi.org/10.1145/1394127.1394128
 - Redis Ltd. (s. f.). *Redis replication* y *High availability with Redis Sentinel*. https://redis.io/docs/latest/operate/oss_and_stack/management/replication/
-
 ---
