@@ -140,7 +140,9 @@ Se detuvieron los contenedores de forma controlada para observar qué cae, qué 
 
 ## 5. Video de sustentación
 
-[Ver video del Arquitecto CAP](video/Grupo4-Distribuidora-Valle-Express-Rescate-Poliglota.mp4)
+## 5. Video de sustentación
+
+🎥 [Ver video del Arquitecto CAP](https://drive.google.com/file/d/1W7wNTwNavIp2UZgJi4TyLDESpvJQg0_0/view?usp=sharing)
 
 ## 6. Referencias
 
