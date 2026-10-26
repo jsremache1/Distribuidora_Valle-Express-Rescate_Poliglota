@@ -1,10 +1,11 @@
 # Distribuidora Valle Express - Rescate Políglota
 
-**Taller:** Operación Rescate – Persistencia Poliglota
-**Materia:** Sistemas Avanzados de Bases de Datos – BD Distribuidas NoSQL y Réplica
-**Docente:** Paul Diaz
-**Insitucion:**  Universidad de las Fuerzas Armadas ESPE
-**Fecha del taller:** 21 de octubre de 2026 
+**Taller:** Operación Rescate - Persistencia Poliglota··
+**Materia:** Sistemas Avanzados de Bases de Datos - BD Distribuidas NoSQL y Réplica··
+**Docente:** Paul Diaz··
+**Institución:** Universidad de las Fuerzas Armadas ESPE··
+**Fecha del taller:** 21 de octubre de 2026
+
 ### Integrantes
 
 | Integrante | Rol | Responsabilidad |
@@ -118,9 +119,13 @@ Interfaces web: pgAdmin `http://localhost:5050`, mongo-express `http://localhost
 
 Se detuvieron los contenedores de forma controlada para observar qué cae, qué sigue funcionando y qué se pierde.
 
+**Escenario a: se detiene PostgreSQL**
 ![Caos 1](evidencias/06_caos_a.png)
+**Escenario b: se detiene MongoDB**
 ![Caos 2](evidencias/07_caos_b.png)
+**Escenario c: se detiene Redis**
 ![Caos 3](evidencias/08_caos_c.png)
+**Escenario d: se detiene Cassandra**
 ![Caos 4](evidencias/09_caos_d.png)
 
 **Estado final de los contenedores**
