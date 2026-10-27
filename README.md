@@ -8,7 +8,7 @@
 
 **Institución:** Universidad de las Fuerzas Armadas ESPE
 
-**Fecha del taller:** 21 de octubre de 2026
+**Fecha del taller:** 27 de octubre de 2026
 
 ### Integrantes
 
